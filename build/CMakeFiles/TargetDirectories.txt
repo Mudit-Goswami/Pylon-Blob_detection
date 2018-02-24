@@ -1,0 +1,3 @@
+/home/ms/Desktop/pylon-next/build/CMakeFiles/edit_cache.dir
+/home/ms/Desktop/pylon-next/build/CMakeFiles/rebuild_cache.dir
+/home/ms/Desktop/pylon-next/build/CMakeFiles/cameradetect.dir
